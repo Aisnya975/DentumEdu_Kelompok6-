@@ -1,0 +1,450 @@
+[
+  {
+    "id": "vokal-a",
+    "kategori": "vokal",
+    "label": "A",
+    "urutan": 1,
+    "isyarat": {
+      "sibi": "media/isyarat/sibi/a.mp4",
+      "bisindo": "media/isyarat/bisindo/a.mp4",
+      "gambar": "media/isyarat/a.png",
+      "deskripsiGerakan": "Tangan menggenggam dengan ibu jari tegak menempel di samping jari telunjuk."
+    },
+    "mulut": {
+      "animasi": "a",
+      "deskripsi": "Mulut terbuka lebar, rahang turun santai",
+      "posisiBibir": "Bibir terbuka lebar alami, tidak ditarik ke samping",
+      "posisiLidah": "Lidah rileks berbaring di dasar mulut",
+      "posisiRahang": "Rahang bawah turun ke bawah sekitar 2 jari",
+      "getaranPitaSuara": true
+    },
+    "pengucapan": [
+      "Buka mulut lebar-lebar",
+      "Turunkan rahang santai ke bawah",
+      "Biarkan lidah diam di dasar mulut",
+      "Keluarkan hembusan napas dan getarkan leher"
+    ],
+    "contoh": {
+      "kata": "Apel",
+      "gambar": "media/contoh/apel.png",
+      "arti": "Buah merah manis dan renyah"
+    },
+    "targetDurasiMs": 400
+  },
+  {
+    "id": "vokal-i",
+    "kategori": "vokal",
+    "label": "I",
+    "urutan": 2,
+    "isyarat": {
+      "sibi": "media/isyarat/sibi/i.mp4",
+      "bisindo": "media/isyarat/bisindo/i.mp4",
+      "gambar": "media/isyarat/i.png",
+      "deskripsiGerakan": "Tangan mengepal, hanya jari kelingking tegak lurus ke atas."
+    },
+    "mulut": {
+      "animasi": "i",
+      "deskripsi": "Mulut tersenyum lebar menyamping, gigi merapat",
+      "posisiBibir": "Kedua sudut bibir ditarik ke samping seperti tersenyum",
+      "posisiLidah": "Punggung lidah naik mendekati langit-langit keras",
+      "posisiRahang": "Rahang hampir menutup (jarak sempit)",
+      "getaranPitaSuara": true
+    },
+    "pengucapan": [
+      "Tersenyum lebar hingga gigi sedikit terlihat",
+      "Tarik kedua sudut bibir ke samping",
+      "Angkat bagian tengah lidah sedikit ke atas",
+      "Getarkan leher sambil mengalirkan udara"
+    ],
+    "contoh": {
+      "kata": "Ikan",
+      "gambar": "media/contoh/ikan.png",
+      "arti": "Hewan yang berenang di air"
+    },
+    "targetDurasiMs": 400
+  },
+  {
+    "id": "vokal-u",
+    "kategori": "vokal",
+    "label": "U",
+    "urutan": 3,
+    "isyarat": {
+      "sibi": "media/isyarat/sibi/u.mp4",
+      "bisindo": "media/isyarat/bisindo/u.mp4",
+      "gambar": "media/isyarat/u.png",
+      "deskripsiGerakan": "Jari telunjuk dan jari tengah tegak rapat ke atas, jari lain menggenggam."
+    },
+    "mulut": {
+      "animasi": "u",
+      "deskripsi": "Bibir membulat maju ke depan seperti bersiul",
+      "posisiBibir": "Bibir dikerutkan maju membentuk lingkaran kecil",
+      "posisiLidah": "Pangkal lidah ditarik mundur sedikit ke belakang",
+      "posisiRahang": "Rahang terangkat tinggi dengan bukaan kecil",
+      "getaranPitaSuara": true
+    },
+    "pengucapan": [
+      "Kumpulkan kedua bibir ke depan membentuk bulatan kecil",
+      "Mulut seperti hendak bersiul atau meniup lilin",
+      "Tarik pangkal lidah sedikit ke belakang",
+      "Keluarkan suara dengan getaran leher"
+    ],
+    "contoh": {
+      "kata": "Udang",
+      "gambar": "media/contoh/udang.png",
+      "arti": "Hewan laut bercangkang lezat"
+    },
+    "targetDurasiMs": 400
+  },
+  {
+    "id": "vokal-e",
+    "kategori": "vokal",
+    "label": "E",
+    "urutan": 4,
+    "isyarat": {
+      "sibi": "media/isyarat/sibi/e.mp4",
+      "bisindo": "media/isyarat/bisindo/e.mp4",
+      "gambar": "media/isyarat/e.png",
+      "deskripsiGerakan": "Keempat ujung jari ditekuk menyentuh ujung ibu jari membentuk lengkungan."
+    },
+    "mulut": {
+      "animasi": "e",
+      "deskripsi": "Mulut terbuka sedang, bibir santai menyamping",
+      "posisiBibir": "Bibir terbuka sedang separuh lebar senyum",
+      "posisiLidah": "Lidah berada di tengah rongga mulut",
+      "posisiRahang": "Rahang turun sekitar 1 jari",
+      "getaranPitaSuara": true
+    },
+    "pengucapan": [
+      "Buka mulut separuh antara senyum dan santai",
+      "Bibir tidak terlalu tegang",
+      "Posisikan lidah di tengah mulut",
+      "Getarkan leher sambil menghembuskan napas"
+    ],
+    "contoh": {
+      "kata": "Ember",
+      "gambar": "media/contoh/ember.png",
+      "arti": "Wadah air dengan pegangan"
+    },
+    "targetDurasiMs": 400
+  },
+  {
+    "id": "vokal-o",
+    "kategori": "vokal",
+    "label": "O",
+    "urutan": 5,
+    "isyarat": {
+      "sibi": "media/isyarat/sibi/o.mp4",
+      "bisindo": "media/isyarat/bisindo/o.mp4",
+      "gambar": "media/isyarat/o.png",
+      "deskripsiGerakan": "Jari-jari melengkung bertemu dengan ibu jari membentuk lingkaran huruf O."
+    },
+    "mulut": {
+      "animasi": "o",
+      "deskripsi": "Bibir membentuk bulatan oval besar",
+      "posisiBibir": "Bibir membulat oval dengan rongga terbuka sedang",
+      "posisiLidah": "Lidah mundur sedikit ke dasar belakang mulut",
+      "posisiRahang": "Rahang turun sedang ke bawah",
+      "getaranPitaSuara": true
+    },
+    "pengucapan": [
+      "Bentuk bibir melingkar oval agak besar",
+      "Buka rongga mulut secukupnya",
+      "Lidah santai di belakang bawah",
+      "Getarkan leher dan bunyikan dengan lembut"
+    ],
+    "contoh": {
+      "kata": "Obor",
+      "gambar": "media/contoh/obor.png",
+      "arti": "Kayu dengan nyala api penerang"
+    },
+    "targetDurasiMs": 400
+  },
+  {
+    "id": "konsonan-b",
+    "kategori": "konsonan",
+    "label": "B",
+    "urutan": 6,
+    "isyarat": {
+      "sibi": "media/isyarat/sibi/b.mp4",
+      "bisindo": "media/isyarat/bisindo/b.mp4",
+      "gambar": "media/isyarat/b.png",
+      "deskripsiGerakan": "Empat jari berdiri tegak lurus ke atas, ibu jari ditekuk ke depan telapak tangan."
+    },
+    "mulut": {
+      "animasi": "b",
+      "deskripsi": "Kedua bibir merapat kencang lalu lepas dengan getaran pita suara",
+      "posisiBibir": "Bibir atas dan bibir bawah menutup rapat menahan udara, lalu terbuka",
+      "posisiLidah": "Lidah santai di bawah",
+      "posisiRahang": "Rahang hampir rapat saat bibir menutup",
+      "getaranPitaSuara": true
+    },
+    "pengucapan": [
+      "Rapatkan bibir atas dan bibir bawah dengan kuat",
+      "Kumpulkan hembusan udara di balik bibir",
+      "Getarkan pita suara di leher",
+      "Buka bibir seketika hingga udara meletup lembut"
+    ],
+    "contoh": {
+      "kata": "Batu",
+      "gambar": "media/contoh/batu.png",
+      "arti": "Benda padat keras dari alam"
+    },
+    "targetDurasiMs": 350
+  },
+  {
+    "id": "konsonan-p",
+    "kategori": "konsonan",
+    "label": "P",
+    "urutan": 7,
+    "isyarat": {
+      "sibi": "media/isyarat/sibi/p.mp4",
+      "bisindo": "media/isyarat/bisindo/p.mp4",
+      "gambar": "media/isyarat/p.png",
+      "deskripsiGerakan": "Jari telunjuk mengarah ke bawah, jari tengah mendatar, ibu jari menempel."
+    },
+    "mulut": {
+      "animasi": "p",
+      "deskripsi": "Kedua bibir menutup rapat lalu lepas dengan letupan udara tanpa getaran suara",
+      "posisiBibir": "Bibir atas dan bawah merapat lalu membuka cepat dengan semburan udara",
+      "posisiLidah": "Lidah rileks mendatar",
+      "posisiRahang": "Rahang terangkat merapatkan bibir",
+      "getaranPitaSuara": false
+    },
+    "pengucapan": [
+      "Katupkan kedua bibir dengan rapat",
+      "Tahan udara di dalam mulut tanpa bersuara",
+      "Letupkan bibir terbuka cepat dengan hembusan angin terasa di tangan",
+      "Rasakan tiupan angin dingin di telapak tanganmu"
+    ],
+    "contoh": {
+      "kata": "Pintu",
+      "gambar": "media/contoh/pintu.png",
+      "arti": "Papan buka-tutup untuk keluar masuk"
+    },
+    "targetDurasiMs": 300
+  },
+  {
+    "id": "konsonan-m",
+    "kategori": "konsonan",
+    "label": "M",
+    "urutan": 8,
+    "isyarat": {
+      "sibi": "media/isyarat/sibi/m.mp4",
+      "bisindo": "media/isyarat/bisindo/m.mp4",
+      "gambar": "media/isyarat/m.png",
+      "deskripsiGerakan": "Tiga jari (telunjuk, tengah, manis) ditekuk di atas ibu jari."
+    },
+    "mulut": {
+      "animasi": "m",
+      "deskripsi": "Bibir tertutup rapat lembut, udara bergetar keluar melalui hidung (nasal)",
+      "posisiBibir": "Kedua bibir santai merapat menutup seluruh rongga mulut",
+      "posisiLidah": "Lidah beristirahat rata di dasar mulut",
+      "posisiRahang": "Rahang relaks hampir tertutup",
+      "getaranPitaSuara": true
+    },
+    "pengucapan": [
+      "Rapatkan bibir atas dan bawah dengan lembut",
+      "Biarkan bibir tetap tertutup",
+      "Getarkan suara sehingga terasa dengungan di hidung dan bibir",
+      "Sentuh hidung atau leher untuk merasakan getaran mendengung"
+    ],
+    "contoh": {
+      "kata": "Mata",
+      "gambar": "media/contoh/mata.png",
+      "arti": "Bagian tubuh untuk melihat"
+    },
+    "targetDurasiMs": 500
+  },
+  {
+    "id": "kata-mama",
+    "kategori": "kata",
+    "label": "Mama",
+    "urutan": 9,
+    "isyarat": {
+      "sibi": "media/isyarat/sibi/mama.mp4",
+      "bisindo": "media/isyarat/bisindo/mama.mp4",
+      "gambar": "media/isyarat/mama.png",
+      "deskripsiGerakan": "Ibu jari tangan kanan terbuka menepuk lembut pipi atau dagu dua kali."
+    },
+    "mulut": {
+      "animasi": "mama",
+      "deskripsi": "Kombinasi merapatkan bibir (M) lalu membuka lebar (A) dilakukan dua kali",
+      "posisiBibir": "Tutup rapat (M) → Buka lebar (A) → Tutup rapat (M) → Buka lebar (A)",
+      "posisiLidah": "Beralih dari posisi datar ke rileks terbuka",
+      "posisiRahang": "Naik menutup lalu turun membuka secara berirama",
+      "getaranPitaSuara": true
+    },
+    "pengucapan": [
+      "Rapatkan bibir berdengung: 'M'",
+      "Buka mulut lebar: 'A'",
+      "Ulangi sekali lagi: 'M' lalu 'A'",
+      "Rasakan irama dua ketukan getaran: Ma - ma"
+    ],
+    "contoh": {
+      "kata": "Mama",
+      "gambar": "media/contoh/mama.png",
+      "arti": "Ibu tercinta yang menyayangi kita"
+    },
+    "targetDurasiMs": 600
+  },
+  {
+    "id": "kata-papa",
+    "kategori": "kata",
+    "label": "Papa",
+    "urutan": 10,
+    "isyarat": {
+      "sibi": "media/isyarat/sibi/papa.mp4",
+      "bisindo": "media/isyarat/bisindo/papa.mp4",
+      "gambar": "media/isyarat/papa.png",
+      "deskripsiGerakan": "Ujung ibu jari menempel pada dahi dengan jari-jari terbuka menghadap ke atas."
+    },
+    "mulut": {
+      "animasi": "papa",
+      "deskripsi": "Letupan bibir (P) diikuti bukaan lebar (A) berulang dua kali",
+      "posisiBibir": "Bibir katup kencang lalu letupkan buka: Pa - pa",
+      "posisiLidah": "Lidah turun saat mulut terbuka",
+      "posisiRahang": "Membuka turun dua kali",
+      "getaranPitaSuara": true
+    },
+    "pengucapan": [
+      "Rapatkan bibir kuat, letupkan tiupan udara ke depan",
+      "Langsung buka mulut lebar untuk bunyi 'A'",
+      "Lakukan dua kali berturut-turut: Pa - pa",
+      "Rasakan hembusan udara hangat di tangan"
+    ],
+    "contoh": {
+      "kata": "Papa",
+      "gambar": "media/contoh/papa.png",
+      "arti": "Ayah hebat pelindung keluarga"
+    },
+    "targetDurasiMs": 600
+  },
+  {
+    "id": "kata-bola",
+    "kategori": "kata",
+    "label": "Bola",
+    "urutan": 11,
+    "isyarat": {
+      "sibi": "media/isyarat/sibi/bola.mp4",
+      "bisindo": "media/isyarat/bisindo/bola.mp4",
+      "gambar": "media/isyarat/bola.png",
+      "deskripsiGerakan": "Kedua tangan melengkung membentuk lingkaran bulat seperti memegang bola."
+    },
+    "mulut": {
+      "animasi": "bola",
+      "deskripsi": "Bibir meletup bulat 'BO', lalu ujung lidah menyentuh langit-langit 'LA'",
+      "posisiBibir": "Rapat lalu membulat 'Bo' → Ujung lidah naik 'La'",
+      "posisiLidah": "Ujung lidah menempel di belakang gigi atas saat suku kata kedua",
+      "posisiRahang": "Turun sedang lalu terbuka",
+      "getaranPitaSuara": true
+    },
+    "pengucapan": [
+      "Bentuk bibir membulat bersuara: 'Bo'",
+      "Sentuhkan ujung lidah ke langit-langit atas: 'La'",
+      "Kombinasikan bersambung: Bo - la",
+      "Pastikan terasa getaran di leher sepanjang kata"
+    ],
+    "contoh": {
+      "kata": "Bola",
+      "gambar": "media/contoh/bola.png",
+      "arti": "Benda bundar untuk bermain dan berolahraga"
+    },
+    "targetDurasiMs": 600
+  },
+  {
+    "id": "kata-buku",
+    "kategori": "kata",
+    "label": "Buku",
+    "urutan": 12,
+    "isyarat": {
+      "sibi": "media/isyarat/sibi/buku.mp4",
+      "bisindo": "media/isyarat/bisindo/buku.mp4",
+      "gambar": "media/isyarat/buku.png",
+      "deskripsiGerakan": "Kedua telapak tangan rapat menghadap ke atas, lalu dibuka seperti membuka buku."
+    },
+    "mulut": {
+      "animasi": "buku",
+      "deskripsi": "Letupan bibir bulat 'BU', lalu pangkal lidah menyentuh langit belakang 'KU'",
+      "posisiBibir": "Bibir maju membulat kecil di suku pertama dan kedua",
+      "posisiLidah": "Pangkal lidah menyentuh langit-langit lembut saat 'Ku'",
+      "posisiRahang": "Tinggi dengan bibir maju",
+      "getaranPitaSuara": true
+    },
+    "pengucapan": [
+      "Bibir letupkan dengan moncong maju: 'Bu'",
+      "Tahan pangkal lidah di belakang mulut: 'Ku'",
+      "Satukan dua suku kata: Bu - ku",
+      "Bibir tetap membulat manis"
+    ],
+    "contoh": {
+      "kata": "Buku",
+      "gambar": "media/contoh/buku.png",
+      "arti": "Kumpulan lembaran kertas berisi cerita dan ilmu"
+    },
+    "targetDurasiMs": 600
+  },
+  {
+    "id": "kata-makan",
+    "kategori": "kata",
+    "label": "Makan",
+    "urutan": 13,
+    "isyarat": {
+      "sibi": "media/isyarat/sibi/makan.mp4",
+      "bisindo": "media/isyarat/bisindo/makan.mp4",
+      "gambar": "media/isyarat/makan.png",
+      "deskripsiGerakan": "Jari tangan kanan dikuncupkan lalu didekatkan ke arah mulut dua kali."
+    },
+    "mulut": {
+      "animasi": "makan",
+      "deskripsi": "Bibir rapat dengung 'MA', lalu lidah naik ke langit-langit belakang 'KAN'",
+      "posisiBibir": "Rapat (M) → Buka lebar (A) → Lidah naik (KAN)",
+      "posisiLidah": "Ujung lidah menempel di langit-langit pada akhir bunyi 'N'",
+      "posisiRahang": "Buka tutup berirama",
+      "getaranPitaSuara": true
+    },
+    "pengucapan": [
+      "Rapatkan bibir lalu buka: 'Ma'",
+      "Tekan pangkal lidah lalu tempelkan ujung lidah: 'Kan'",
+      "Irama jelas: Ma - kan",
+      "Rasakan getaran leher dan nafas penutup"
+    ],
+    "contoh": {
+      "kata": "Makan",
+      "gambar": "media/contoh/makan.png",
+      "arti": "Aktivitas memasukkan santapan bergizi ke tubuh"
+    },
+    "targetDurasiMs": 700
+  },
+  {
+    "id": "kata-minum",
+    "kategori": "kata",
+    "label": "Minum",
+    "urutan": 14,
+    "isyarat": {
+      "sibi": "media/isyarat/sibi/minum.mp4",
+      "bisindo": "media/isyarat/bisindo/minum.mp4",
+      "gambar": "media/isyarat/minum.png",
+      "deskripsiGerakan": "Tangan membentuk huruf C seperti memegang cangkir lalu digerakkan ke mulut."
+    },
+    "mulut": {
+      "animasi": "minum",
+      "deskripsi": "Bibir rapat lalu senyum 'MI', dilanjutkan bibir membulat dan menutup rapat 'NUM'",
+      "posisiBibir": "Rapat (M) → Senyum (I) → Maju (U) → Rapat kembali (M)",
+      "posisiLidah": "Tinggi di depan saat 'Mi', lalu santai saat 'Num'",
+      "posisiRahang": "Hampir rapat sepanjang pengucapan",
+      "getaranPitaSuara": true
+    },
+    "pengucapan": [
+      "Bibir rapat lalu tersenyum: 'Mi'",
+      "Bibir membulat maju lalu tutup rapat kembali: 'Num'",
+      "Ucapkan berkesinambungan: Mi - num",
+      "Rasakan dengungan hangat di kedua bibir pada awal dan akhir kata"
+    ],
+    "contoh": {
+      "kata": "Minum",
+      "gambar": "media/contoh/minum.png",
+      "arti": "Aktivitas meneguk air pelepas dahaga"
+    },
+    "targetDurasiMs": 700
+  }
+]

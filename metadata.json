@@ -1,0 +1,6 @@
+{
+  "name": "DENTUM-EDU",
+  "description": "Media pembelajaran visual-taktil artikulasi dan vokalisasi anak tunarungu.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
